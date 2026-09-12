@@ -1,0 +1,27 @@
+# STM32CubeIDE generated/build files
+Debug/
+Release/
+*.o
+*.d
+*.su
+*.cyclo
+*.map
+*.elf
+*.hex
+*.bin
+*.list
+
+# IDE metadata (keep project files such as .ioc/.project/.cproject)
+.settings/
+*.launch
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp

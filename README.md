@@ -332,6 +332,4 @@ This is an **educational/research prototype** and is not a medical device. The B
 
 Developed as part of **Embedded System Design** in Electronics and Communication Engineering.
 
-## 📄 Documentation
 
-The detailed project report is available in [`docs/project_report.pdf`](docs/project_report.pdf).
